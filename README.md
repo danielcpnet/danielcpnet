@@ -1,4 +1,14 @@
-## Hi there 👋
+# Daniel Concepcion
+
+Technology executive working across banking and financial services, with a focus on infrastructure, cybersecurity, data and artificial intelligence.
+
+I build and test AI agents and write about what those experiments mean for finance, technology organisations and leadership.
+
+Much of my professional work operates in regulated environments and is not publicly available. I use this profile to share selected experiments and open work.
+
+- [Website](https://danielconcepcion.com/)
+- [Thinking](https://danielconcepcion.com/thinking/)
+- [LinkedIn](https://www.linkedin.com/in/danielconcepcion/)
 
 <!--
 **danielcpnet/danielcpnet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
