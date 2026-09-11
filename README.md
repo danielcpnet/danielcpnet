@@ -6,8 +6,14 @@ I build and test AI agents and write about what those experiments mean for finan
 
 Much of my professional work operates in regulated environments and is not publicly available. I use this profile to share selected experiments and open work.
 
+## Explore
+
 - [Website](https://danielconcepcion.com/)
-- [Thinking](https://danielconcepcion.com/thinking/)
+- [Curriculum vitae](https://danielconcepcion.com/cv/)
+- [Thinking and writing](https://danielconcepcion.com/thinking/)
+
+## Connect
+
 - [LinkedIn](https://www.linkedin.com/in/danielconcepcion/)
 
 <!--
